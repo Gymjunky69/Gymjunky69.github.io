@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<link href="20171017.css" rel="stylesheet" type="text/css">
+<title>Namnlöst dokument</title>
+
+
+	
+</head>
+
+<body>
+<div id="storebox">
+    <header>
+    </header>
+    <nav>
+        <ul>
+            <li> <a href="17okt.html">startsida</a></li>
+            <li> <a href="nobelpristagare1.html">Svante Arrhenius</a></li>	
+        </ul>
+    </nav>
+    <article>
+    
+    
+    
+     <h1>Väkommen till min hemsida där jag presenterar en svensk nobelpristagare! </h1>
+    
+    
+        
+    </article>
+    <aside>
+    </aside>
+    <footer></footer>
+</div>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html 
+<head>
+<meta charset="utf-8">
+<link href="20171017.css" rel="stylesheet" type="text/css">
+<title>Namnlöst dokument</title>
+
+
+	
+</head>
+
+<body>
+<div id="storebox">
+    <header>
+    </header>
+    <nav>
+    <ul>
+    <li> <a href="17okt.html">startsida</a></li>
+    <li> <a href="nobelpristagare1.html">Svante Arrhenius</a></li>
+  </ul>
+  
+  
+    
+    
+    
+    </nav>
+    <article>
+    
+    <h1> Svante Arrhenius</h1>
+    <h2>Svante Arrhenius (1859-1927) belönades 1903 med Nobelpriset i kemi för upptäckten av hur kemiska föreningar i lösning kan leda elektrisk ström.</h2>
+    <p>
+    
+   <b>
+    Svante Arrhenius var en av sin tids största naturforskare. Hans elektrolytiska dissociationsteori kom att totalt förändra kemisternas föreställningar om syror, baser och salter. Med elektrolytisk dissociation menas att föreningarna sönderfaller i elektriskt laddade joner, till exempel när vanligt koksalt löser upp sig i fria natrium- och klorjoner. Därmed kan lösningar fungera som elektrolyter och leda elektrisk ström.  </p>
+<p>
+Med Svante Arrhenius teori kunde en mängd gåtfulla kemiska och fysikaliska fenomen förklaras samt beskrivas enklare och mer enhetligt. Även om hans teori har modifierats under 1900-talet innebär den ändå ett av de stora framstegen inom kemin. </p>
+<p>
+Ändå är kanske Svante Arrhenius mest betydande insats den så kallade Arrheniusekvationen. I den formuleras sambandet mellan hur fort en reaktion sker och den energi som måste tillföras för att den ska äga rum. Sambandet är av grundläggande betydelse för förståelsen av hur kemiska reaktioner egentligen går till. Svante Arrhenius var också en av de absolut första att göra kopplingen mellan mängden koldioxid i atmosfären och den globala temperaturen – det vi idag kallar växthuseffekten. <p>
+
+</p>
+Svante Arrhenius inledde sina studier i Uppsala. De teorier han utvecklade i sin avhandling bemöttes först med sådan skepsis att han blev godkänd med lägsta möjliga betyg. Efter en tid blev dock teorierna omvärderade och han fick 1891 en lärartjänst vid Stockholms högskola. Han blev snart professor här i fysik och var under sju år även rektor för högskolan. Hans namn lever idag vidare i Arrheniuslaboratorierna som rymmer många av de naturvetenskapliga institutionerna vid Stockholms universitet.
+ </b>
+ 
+ <figure>
+ <img src="Webbutveckling/image1.jpg" alt="Svante Arrhenius" width="150" height="170">
+ <figcaption> Svante Arrhenius
+ </figure>
+ 
+ <a href="http://www.su.se/om-oss/priser-utm%C3%A4rkelser/nobel-pristagare-kommitt%C3%A9er/svante-arrhenius-kemi-1903-1.10313" target="_blank">
+ Källa
+ </a>
+      
+   
+    </article>
+    <aside>
+    </aside>
+    <footer></footer>
+</div>
+</body>
+</html>
